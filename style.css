@@ -90,7 +90,9 @@ body{
 .button-list .buttons button{
     background-color: rgb(95, 85, 88);
     border: none;
+    cursor: pointer;
     border-radius: 5px;
     padding: 5px;
     font-weight: bold;
+
 }
